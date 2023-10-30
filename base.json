@@ -1,0 +1,1401 @@
+[
+    {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "genre": "Acción",
+        "ageRating": "G",
+        "duration": 90,
+        "information": {
+            "director": "Gore Verbinski",
+            "releaseYear": 2003,
+            "description": "El capitán Jack Sparrow busca el tesoro del legendario Barbanegra.",
+            "actors": [
+                "Johnny Depp",
+                "Geoffrey Rush",
+                "Orlando Bloom"
+            ]
+        }
+    },
+    {
+        "title": "Forrest Gump",
+        "genre": "Acción",
+        "ageRating": "G",
+        "duration": 120,
+        "information": {
+            "director": "Robert Zemeckis",
+            "releaseYear": 1994,
+            "description": "La vida de Forrest Gump, un hombre con una inteligencia limitada pero un gran corazón.",
+            "actors": [
+                "Tom Hanks",
+                "Robin Wright",
+                "Gary Sinise"
+            ]
+        }
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genre": "Acción",
+        "ageRating": "G",
+        "duration": 150,
+        "information": {
+            "director": "Frank Darabont",
+            "releaseYear": 1994,
+            "description": "La historia de un banquero injustamente condenado y su amistad en prisión.",
+            "actors": [
+                "Tim Robbins",
+                "Morgan Freeman",
+                "Bob Gunton"
+            ]
+        }
+    },
+    {
+        "title": "Inception",
+        "genre": "Acción",
+        "ageRating": "G",
+        "duration": 180,
+        "information": {
+            "director": "Christopher Nolan",
+            "releaseYear": 2010,
+            "description": "Un ladrón de sueños se embarca en un último trabajo para redimirse.",
+            "actors": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt",
+                "Ellen Page"
+            ]
+        }
+    },
+    {
+        "title": "The Godfather",
+        "genre": "Acción",
+        "ageRating": "PG",
+        "duration": 90,
+        "information": {
+            "director": "Francis Ford Coppola",
+            "releaseYear": 1972,
+            "description": "La historia de la familia Corleone y el crimen organizado en Nueva York.",
+            "actors": [
+                "Marlon Brando",
+                "Al Pacino",
+                "James Caan"
+            ]
+        }
+    },
+    {
+        "title": "Jurassic Park",
+        "genre": "Acción",
+        "ageRating": "PG",
+        "duration": 120,
+        "information": {
+            "director": "Steven Spielberg",
+            "releaseYear": 1993,
+            "description": "Dinosaurios vuelven a la vida en un parque temático.",
+            "actors": [
+                "Sam Neill",
+                "Laura Dern",
+                "Jeff Goldblum"
+            ]
+        }
+    },
+    {
+        "title": "Avatar",
+        "genre": "Acción",
+        "ageRating": "PG",
+        "duration": 150,
+        "information": {
+            "director": "James Cameron",
+            "releaseYear": 2009,
+            "description": "Un marine parapléjico se involucra en un conflicto en Pandora.",
+            "actors": [
+                "Sam Worthington",
+                "Zoe Saldana",
+                "Sigourney Weaver"
+            ]
+        }
+    },
+    {
+        "title": "Inception",
+        "genre": "Acción",
+        "ageRating": "PG",
+        "duration": 180,
+        "information": {
+            "director": "Christopher Nolan",
+            "releaseYear": 2009,
+            "description": "Un marine parapléjico se involucra en un conflicto en Pandora.",
+            "actors": [
+                "Sam Worthington",
+                "Zoe Saldana",
+                "Sigourney Weaver"
+            ]
+        }
+    },
+    {
+        "title": "Die Hard",
+        "genre": "Acción",
+        "ageRating": "PG-13",
+        "duration": 90,
+        "information": {
+            "director": "John McTiernan",
+            "releaseYear": 1988,
+            "description": "Un oficial de policía lucha contra un grupo de terroristas en un rascacielos."
+        }
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "genre": "Acción",
+        "ageRating": "PG-13",
+        "duration": 120,
+        "information": {
+            "director": "George Miller",
+            "releaseYear": 2015,
+            "description": "Una película postapocalíptica llena de acción y caos en el camino."
+        }
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "genre": "Acción",
+        "ageRating": "PG-13",
+        "duration": 150,
+        "information": {
+            "director": "Christopher Nolan",
+            "releaseYear": 2012,
+            "description": "Batman regresa para enfrentarse a Bane, un terrorista enmascarado."
+        }
+    },
+    {
+        "title": "Inception",
+        "genre": "Acción",
+        "ageRating": "PG-13",
+        "duration": 90,
+        "information": {
+            "director": "Christopher Nolan",
+            "releaseYear": 2010,
+            "description": "Un ladrón de sueños se embarca en un último trabajo para redimirse."
+        }
+    },
+    {
+        "title": "Die Hard 2",
+        "genre": "Acción",
+        "ageRating": "PG-13",
+        "duration": 180,
+        "information": {
+            "director": "Renny Harlin",
+            "releaseYear": 1990,
+            "description": "John McClane se encuentra en otro lugar equivocado en el momento equivocado."
+        }
+    },
+    {
+        "title": "La Gran Aventura",
+        "genre": "Aventura",
+        "ageRating": "G",
+        "duration": 90,
+        "information": {
+            "director": "Juan Pérez",
+            "releaseYear": 2020,
+            "description": "Una emocionante aventura para toda la familia...",
+            "actors": [
+                "María González",
+                "Luis Rodríguez",
+                "Carlos Martínez"
+            ]
+        }
+    },
+    {
+        "title": "La Búsqueda del Tesoro",
+        "genre": "Aventura",
+        "ageRating": "G",
+        "duration": 120,
+        "information": {
+            "director": "Ana Sánchez",
+            "releaseYear": 2019,
+            "description": "Un viaje en busca de un tesoro legendario...",
+            "actors": [
+                "Lucía Torres",
+                "Pedro Ramírez",
+                "Elena Jiménez"
+            ]
+        }
+    },
+    {
+        "title": "El Explorador Intrépido",
+        "genre": "Aventura",
+        "ageRating": "G",
+        "duration": 150,
+        "information": {
+            "director": "Miguel López",
+            "releaseYear": 2018,
+            "description": "Un aventurero se adentra en lo desconocido...",
+            "actors": [
+                "Javier Morales",
+                "Sofía Fernández",
+                "Andrés Pérez"
+            ]
+        }
+    },
+    {
+        "title": "La Odisea en la Selva",
+        "genre": "Aventura",
+        "ageRating": "G",
+        "duration": 180,
+        "information": {
+            "director": "Isabel Martínez",
+            "releaseYear": 2017,
+            "description": "Una épica odisea en la selva salvaje...",
+            "actors": [
+                "Daniel García",
+                "Laura López",
+                "Roberto Ramírez"
+            ]
+        }
+    },
+    {
+        "title": "La Ruta Misteriosa",
+        "genre": "Aventura",
+        "ageRating": "PG",
+        "duration": 90,
+        "information": {
+            "director": "Carlos Ramírez",
+            "releaseYear": 2020,
+            "description": "Un grupo de aventureros sigue una misteriosa ruta...",
+            "actors": [
+                "Ana López",
+                "Juan Torres",
+                "Sara Rodríguez"
+            ]
+        }
+    },
+    {
+        "title": "En Busca del Diamante Perdido",
+        "genre": "Aventura",
+        "ageRating": "PG",
+        "duration": 120,
+        "information": {
+            "director": "Luis Martínez",
+            "releaseYear": 2019,
+            "description": "Una búsqueda épica de un diamante valioso...",
+            "actors": [
+                "Roberto Sánchez",
+                "Laura Pérez",
+                "Elena González"
+            ]
+        }
+    },
+    {
+        "title": "La Isla de los Misterios",
+        "genre": "Aventura",
+        "ageRating": "PG",
+        "duration": 150,
+        "information": {
+            "director": "María Torres",
+            "releaseYear": 2018,
+            "description": "Un viaje a una isla llena de secretos y misterios...",
+            "actors": [
+                "Pedro López",
+                "Sofía Ramírez",
+                "Carlos García"
+            ]
+        }
+    },
+    {
+        "title": "La Expedición Inexplorada",
+        "genre": "Aventura",
+        "ageRating": "PG",
+        "duration": 180,
+        "information": {
+            "director": "Elena Martínez",
+            "releaseYear": 2017,
+            "description": "Una expedición a lugares nunca antes explorados...",
+            "actors": [
+                "Sara López",
+                "Javier Torres",
+                "Lucas Pérez"
+            ]
+        }
+    },
+    {
+        "title": "La Selva Oscura",
+        "genre": "Aventura",
+        "ageRating": "PG-13",
+        "duration": 90,
+        "information": {
+            "director": "Sofía Ramírez",
+            "releaseYear": 2020,
+            "description": "Un viaje peligroso a través de una selva misteriosa...",
+            "actors": [
+                "Elena Martínez",
+                "Carlos López",
+                "Javier Torres"
+            ]
+        }
+    },
+    {
+        "title": "Travesía en el Desierto",
+        "genre": "Aventura",
+        "ageRating": "PG-13",
+        "duration": 120,
+        "information": {
+            "director": "Luis García",
+            "releaseYear": 2019,
+            "description": "Una travesía agotadora a través de un desierto ardiente...",
+            "actors": [
+                "Sara Rodríguez",
+                "Lucas Pérez",
+                "Marina Sánchez"
+            ]
+        }
+    },
+    {
+        "title": "Aventura en el Amazonas",
+        "genre": "Aventura",
+        "ageRating": "PG-13",
+        "duration": 150,
+        "information": {
+            "director": "Carlos Martínez",
+            "releaseYear": 2018,
+            "description": "Una emocionante aventura en el corazón del Amazonas...",
+            "actors": [
+                "Javier Torres",
+                "Ana López",
+                "Sofía Ramírez"
+            ]
+        }
+    },
+    {
+        "title": "La Expedición Perdida",
+        "genre": "Aventura",
+        "ageRating": "PG-13",
+        "duration": 180,
+        "information": {
+            "director": "María González",
+            "releaseYear": 2017,
+            "description": "Una expedición en busca de un tesoro perdido...",
+            "actors": [
+                "Luis Martínez",
+                "Elena Jiménez",
+                "Pedro Ramírez"
+            ]
+        }
+    },
+    {
+        "title": "La Búsqueda Desesperada",
+        "genre": "Aventura",
+        "ageRating": "R",
+        "duration": 90,
+        "information": {
+            "director": "Pedro López",
+            "releaseYear": 2020,
+            "description": "Una búsqueda desesperada en territorio hostil...",
+            "actors": [
+                "Ana Sánchez",
+                "Javier Morales",
+                "Elena Jiménez"
+            ]
+        }
+    },
+    {
+        "title": "Expedición Extrema",
+        "genre": "Aventura",
+        "ageRating": "R",
+        "duration": 120,
+        "information": {
+            "director": "Sofía Fernández",
+            "releaseYear": 2019,
+            "description": "Una expedición llena de desafíos extremos...",
+            "actors": [
+                "Lucas Pérez",
+                "Marina Sánchez",
+                "Carlos García"
+            ]
+        }
+    },
+    {
+        "title": "Aventura en la Montaña",
+        "genre": "Aventura",
+        "ageRating": "R",
+        "duration": 150,
+        "information": {
+            "director": "Eduardo Torres",
+            "releaseYear": 2018,
+            "description": "Una emocionante aventura en las alturas...",
+            "actors": [
+                "Sara López",
+                "Roberto Ramírez",
+                "Laura Pérez"
+            ]
+        }
+    },
+    {
+        "title": "La Ruta Peligrosa 2",
+        "genre": "Aventura",
+        "ageRating": "R",
+        "duration": 180,
+        "information": {
+            "director": "Carlos Martínez",
+            "releaseYear": 2017,
+            "description": "Una nueva ruta llena de peligros y desafíos...",
+            "actors": [
+                "Juan Pérez",
+                "Andrés Pérez",
+                "Lucía Torres"
+            ]
+        }
+    },
+    {
+        "title": "Aventura Extrema",
+        "genre": "Aventura",
+        "ageRating": "NC-17",
+        "duration": 90,
+        "information": {
+            "director": "Sofía Ramírez",
+            "releaseYear": 2020,
+            "description": "Una aventura extrema en territorios peligrosos...",
+            "actors": [
+                "Carlos López",
+                "Elena Martínez",
+                "Laura López"
+            ]
+        }
+    },
+    {
+        "title": "Travesía Mortal",
+        "genre": "Aventura",
+        "ageRating": "NC-17",
+        "duration": 120,
+        "information": {
+            "director": "Lucas Pérez",
+            "releaseYear": 2019,
+            "description": "Una travesía mortal en busca de un antiguo secreto...",
+            "actors": [
+                "Elena Jiménez",
+                "Sara Rodríguez",
+                "Pedro López"
+            ]
+        }
+    },
+    {
+        "title": "Aventura en el Desierto Ardiente",
+        "genre": "Aventura",
+        "ageRating": "NC-17",
+        "duration": 150,
+        "information": {
+            "director": "Javier Torres",
+            "releaseYear": 2018,
+            "description": "Una aventura en el abrasador desierto...",
+            "actors": [
+                "Marina Sánchez",
+                "Carlos Martínez",
+                "Ana López"
+            ]
+        }
+    },
+    {
+        "title": "La Expedición Prohibida",
+        "genre": "Aventura",
+        "ageRating": "NC-17",
+        "duration": 180,
+        "information": {
+            "director": "Andrés Pérez",
+            "releaseYear": 2017,
+            "description": "Una expedición en busca de tesoros prohibidos...",
+            "actors": [
+                "María González",
+                "Sofía Ramírez",
+                "Luis Martínez"
+            ]
+        }
+    },
+    {
+        "title": "Superbad",
+        "genre": "Comedia",
+        "ageRating": "G",
+        "duration": 90,
+        "information": {
+            "director": "Greg Mottola",
+            "releaseYear": 2007,
+            "description": "Dos amigos intentan hacer que su última fiesta de escuela sea inolvidable.",
+            "actors": [
+                "Jonah Hill",
+                "Michael Cera",
+                "Christopher Mintz-Plasse"
+            ]
+        }
+    },
+    {
+        "title": "La Ruta Misteriosa",
+        "genre": "Comedia",
+        "ageRating": "G",
+        "duration": 120,
+        "information": {
+            "director": "Greg Mottola",
+            "releaseYear": 2007,
+            "description": "Dos amigos intentan hacer que su última fiesta de escuela sea inolvidable.",
+            "actors": [
+                "Jonah Hill",
+                "Michael Cera",
+                "Christopher Mintz-Plasse"
+            ]
+        }
+    },
+    {
+        "title": "Mario Bross",
+        "genre": "Comedia",
+        "ageRating": "G",
+        "duration": 150,
+        "information": {
+            "director": "Greg Mottola",
+            "releaseYear": 2007,
+            "description": "Dos amigos intentan hacer que su última fiesta de escuela sea inolvidable.",
+            "actors": [
+                "Jonah Hill",
+                "Michael Cera",
+                "Christopher Mintz-Plasse"
+            ]
+        }
+    },
+    {
+        "title": "Home Alone",
+        "genre": "Comedia",
+        "ageRating": "PG",
+        "duration": 90,
+        "information": {
+            "director": "Chris Columbus",
+            "releaseYear": 1990,
+            "description": "Un niño se queda solo en casa y defiende su hogar de ladrones torpes.",
+            "actors": [
+                "Macaulay Culkin",
+                "Joe Pesci",
+                "Daniel Stern"
+            ]
+        }
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "genre": "Comedia",
+        "ageRating": "PG",
+        "duration": 120,
+        "information": {
+            "director": "Wes Anderson",
+            "releaseYear": 2014,
+            "description": "Las locas aventuras de un conserje y su joven aprendiz en un elegante hotel europeo.",
+            "actors": [
+                "Ralph Fiennes",
+                "Tony Revolori",
+                "Adrien Brody"
+            ]
+        }
+    },
+    {
+        "title": "Bridesmaids",
+        "genre": "Comedia",
+        "ageRating": "PG",
+        "duration": 150,
+        "information": {
+            "director": "Paul Feig",
+            "releaseYear": 2011,
+            "description": "Una dama de honor compite con la dama de honor de su mejor amiga por su afecto.",
+            "actors": [
+                "Kristen Wiig",
+                "Maya Rudolph",
+                "Melissa McCarthy"
+            ]
+        }
+    },
+    {
+        "title": "Ferris Bueller's Day Off",
+        "genre": "Comedia",
+        "ageRating": "PG",
+        "duration": 180,
+        "information": {
+            "director": "John Hughes",
+            "releaseYear": 1986,
+            "description": "Un estudiante ingenioso se hace pasar por enfermo para disfrutar de un día libre en la ciudad de Chicago.",
+            "actors": [
+                "Matthew Broderick",
+                "Alan Ruck",
+                "Mia Sara"
+            ]
+        }
+    },
+    {
+        "title": "Despicable Me",
+        "genre": "Comedia",
+        "ageRating": "PG-13",
+        "duration": 90,
+        "information": {
+            "director": "Pierre Coffin, Chris Renaud",
+            "releaseYear": 2010,
+            "description": "Un supervillano intenta robar la Luna con la ayuda de sus minions traviesos.",
+            "actors": [
+                "Steve Carell",
+                "Jason Segel",
+                "Russell Brand"
+            ]
+        }
+    },
+    {
+        "title": "Anchorman: The Legend of Ron Burgundy",
+        "genre": "Comedia",
+        "ageRating": "PG-13",
+        "duration": 120,
+        "information": {
+            "director": "Adam McKay",
+            "releaseYear": 2004,
+            "description": "Un egocéntrico presentador de noticias lucha por mantener su estatus en San Diego.",
+            "actors": [
+                "Will Ferrell",
+                "Christina Applegate",
+                "Paul Rudd"
+            ]
+        }
+    },
+    {
+        "title": "The Hangover",
+        "genre": "Comedia",
+        "ageRating": "PG-13",
+        "duration": 150,
+        "information": {
+            "director": "Todd Phillips",
+            "releaseYear": 2009,
+            "description": "Después de una desenfrenada noche en Las Vegas, un grupo de amigos trata de recordar lo que sucedió.",
+            "actors": [
+                "Bradley Cooper",
+                "Ed Helms",
+                "Zach Galifianakis"
+            ]
+        }
+    },
+    {
+        "title": "This Is Spinal Tap",
+        "genre": "Comedia",
+        "ageRating": "PG-13",
+        "duration": 180,
+        "information": {
+            "director": "Rob Reiner",
+            "releaseYear": 1984,
+            "description": "Un falso documental sigue a una banda de rock en su decadencia.",
+            "actors": [
+                "Christopher Guest",
+                "Michael McKean",
+                "Harry Shearer"
+            ]
+        }
+    },
+    {
+        "title": "Superbad 2",
+        "genre": "Comedia",
+        "ageRating": "R",
+        "duration": 90,
+        "information": {
+            "director": "Greg Mottola",
+            "releaseYear": 2019,
+            "description": "Dos amigos intentan hacer que su última fiesta de escuela sea inolvidable, nuevamente.",
+            "actors": [
+                "Jonah Hill",
+                "Michael Cera",
+                "Christopher Mintz-Plasse"
+            ]
+        }
+    },
+    {
+        "title": "Home Alone 2: Lost in New York",
+        "genre": "Comedia",
+        "ageRating": "R",
+        "duration": 120,
+        "information": {
+            "director": "Chris Columbus",
+            "releaseYear": 1992,
+            "description": "Un niño se queda solo en Nueva York y enfrenta a los mismos ladrones torpes de antes.",
+            "actors": [
+                "Macaulay Culkin",
+                "Joe Pesci",
+                "Daniel Stern"
+            ]
+        }
+    },
+    {
+        "title": "The Grand Budapest Hotel 2",
+        "genre": "Comedia",
+        "ageRating": "R",
+        "duration": 150,
+        "information": {
+            "director": "Wes Anderson",
+            "releaseYear": 2018,
+            "description": "Nuevas locas aventuras en el hotel europeo más elegante.",
+            "actors": [
+                "Ralph Fiennes",
+                "Tony Revolori",
+                "Adrien Brody"
+            ]
+        }
+    },
+    {
+        "title": "Bridesmaids 2",
+        "genre": "Comedia",
+        "ageRating": "R",
+        "duration": 180,
+        "information": {
+            "director": "Paul Feig",
+            "releaseYear": 2013,
+            "description": "Otra dama de honor compite con la dama de honor de su mejor amiga por su afecto, esta vez con más caos.",
+            "actors": [
+                "Kristen Wiig",
+                "Maya Rudolph",
+                "Melissa McCarthy"
+            ]
+        }
+    },
+    {
+        "title": "Ferris Bueller's Day Off 2",
+        "genre": "Comedia",
+        "ageRating": "PG-13",
+        "duration": 102,
+        "information": {
+            "director": "John Hughes",
+            "releaseYear": 1988,
+            "description": "El estudiante ingenioso regresa para otro día libre en la ciudad de Chicago.",
+            "actors": [
+                "Matthew Broderick",
+                "Alan Ruck",
+                "Mia Sara"
+            ]
+        }
+    },
+    {
+        "title": "Despicable Me 2",
+        "genre": "Comedia",
+        "ageRating": "NC-17",
+        "duration": 90,
+        "information": {
+            "director": "Pierre Coffin, Chris Renaud",
+            "releaseYear": 2013,
+            "description": "El supervillano regresa con más minions traviesos.",
+            "actors": [
+                "Steve Carell",
+                "Kristen Wiig",
+                "Benjamin Bratt"
+            ]
+        }
+    },
+    {
+        "title": "Anchorman: The Legend of Ron Burgundy 2",
+        "genre": "Comedia",
+        "ageRating": "NC-17",
+        "duration": 120,
+        "information": {
+            "director": "Adam McKay",
+            "releaseYear": 2013,
+            "description": "El egocéntrico presentador de noticias lucha por mantener su estatus en Nueva York.",
+            "actors": [
+                "Will Ferrell",
+                "Christina Applegate",
+                "Paul Rudd"
+            ]
+        }
+    },
+    {
+        "title": "The Hangover 2",
+        "genre": "Comedia",
+        "ageRating": "NC-17",
+        "duration": 150,
+        "information": {
+            "director": "Todd Phillips",
+            "releaseYear": 2011,
+            "description": "Los amigos se emborrachan en Tailandia y enfrentan nuevas desventuras.",
+            "actors": [
+                "Bradley Cooper",
+                "Ed Helms",
+                "Zach Galifianakis"
+            ]
+        }
+    },
+    {
+        "title": "School of Rock 2",
+        "genre": "Comedia",
+        "ageRating": "NC-17",
+        "duration": 180,
+        "information": {
+            "director": "Richard Linklater",
+            "releaseYear": 2005,
+            "description": "El músico sin trabajo regresa para formar una banda con nuevos estudiantes.",
+            "actors": [
+                "Jack Black",
+                "Joan Cusack",
+                "Mike White"
+            ]
+        }
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "ageRating": "G",
+        "duration": 90,
+        "information": {
+            "director": "Frank Darabont",
+            "releaseYear": 1994,
+            "description": "La historia de un banquero injustamente condenado y su amistad en prisión.",
+            "actors": [
+                "Tim Robbins",
+                "Morgan Freeman",
+                "Bob Gunton"
+            ]
+        }
+    },
+    {
+        "title": "The Godfather",
+        "genre": "Drama",
+        "ageRating": "G",
+        "duration": 120,
+        "information": {
+            "director": "Francis Ford Coppola",
+            "releaseYear": 1972,
+            "description": "La historia de la familia Corleone y el crimen organizado en Nueva York.",
+            "actors": [
+                "Marlon Brando",
+                "Al Pacino",
+                "James Caan"
+            ]
+        }
+    },
+    {
+        "title": "Schindler's List",
+        "genre": "Drama",
+        "ageRating": "G",
+        "duration": 150,
+        "information": {
+            "director": "Steven Spielberg",
+            "releaseYear": 1993,
+            "description": "La verdadera historia de un empresario que salva a judíos durante el Holocausto.",
+            "actors": [
+                "Liam Neeson",
+                "Ralph Fiennes",
+                "Ben Kingsley"
+            ]
+        }
+    },
+    {
+        "title": "Forrest Gump",
+        "genre": "Drama",
+        "ageRating": "G",
+        "duration": 180,
+        "information": {
+            "director": "Robert Zemeckis",
+            "releaseYear": 1994,
+            "description": "La vida de Forrest Gump, un hombre con una inteligencia limitada pero un gran corazón.",
+            "actors": [
+                "Tom Hanks",
+                "Robin Wright",
+                "Gary Sinise"
+            ]
+        }
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "genre": "Drama",
+        "ageRating": "PG",
+        "duration": 90,
+        "information": {
+            "director": "Milos Forman",
+            "releaseYear": 1975,
+            "description": "Un hombre finge estar loco para escapar de la cárcel y termina en un hospital psiquiátrico.",
+            "actors": [
+                "Jack Nicholson",
+                "Louise Fletcher",
+                "Danny DeVito"
+            ]
+        }
+    },
+    {
+        "title": "The Green Mile",
+        "genre": "Drama",
+        "ageRating": "PG",
+        "duration": 120,
+        "information": {
+            "director": "Frank Darabont",
+            "releaseYear": 1999,
+            "description": "La historia de un carcelero y un prisionero con un don misterioso en el corredor de la muerte.",
+            "actors": [
+                "Tom Hanks",
+                "Michael Clarke Duncan",
+                "David Morse"
+            ]
+        }
+    },
+    {
+        "title": "Good Will Hunting",
+        "genre": "Drama",
+        "ageRating": "PG",
+        "duration": 150,
+        "information": {
+            "director": "Gus Van Sant",
+            "releaseYear": 1997,
+            "description": "Un joven genio de las matemáticas lucha con su pasado y su futuro con la ayuda de un terapeuta.",
+            "actors": [
+                "Matt Damon",
+                "Robin Williams",
+                "Ben Affleck"
+            ]
+        }
+    },
+    {
+        "title": "A Beautiful Mind",
+        "genre": "Drama",
+        "ageRating": "PG",
+        "duration": 180,
+        "information": {
+            "director": "Ron Howard",
+            "releaseYear": 2001,
+            "description": "La vida del matemático John Nash y su lucha con la esquizofrenia.",
+            "actors": [
+                "Russell Crowe",
+                "Ed Harris",
+                "Jennifer Connelly"
+            ]
+        }
+    },
+    {
+        "title": "12 Angry Men",
+        "genre": "Drama",
+        "ageRating": "PG-13",
+        "duration": 90,
+        "information": {
+            "director": "Sidney Lumet",
+            "releaseYear": 1957,
+            "description": "Un jurado debate sobre la culpabilidad de un joven acusado de asesinato.",
+            "actors": [
+                "Henry Fonda",
+                "Lee J. Cobb",
+                "Martin Balsam"
+            ]
+        }
+    },
+    {
+        "title": "The Pursuit of Happyness",
+        "genre": "Drama",
+        "ageRating": "PG-13",
+        "duration": 120,
+        "information": {
+            "director": "Gabriele Muccino",
+            "releaseYear": 2006,
+            "description": "La verdadera historia de un hombre sin hogar que lucha por un futuro mejor para él y su hijo.",
+            "actors": [
+                "Will Smith",
+                "Jaden Smith",
+                "Thandie Newton"
+            ]
+        }
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "genre": "Drama",
+        "ageRating": "R",
+        "duration": 150,
+        "information": {
+            "director": "Michel Gondry",
+            "releaseYear": 2004,
+            "description": "Una pareja se somete a un procedimiento para borrar los recuerdos de su relación fallida.",
+            "actors": [
+                "Jim Carrey",
+                "Kate Winslet",
+                "Elijah Wood"
+            ]
+        }
+    },
+    {
+        "title": "The Help",
+        "genre": "Drama",
+        "ageRating": "PG-13",
+        "duration": 180,
+        "information": {
+            "director": "Tate Taylor",
+            "releaseYear": 2011,
+            "description": "Una joven escritora expone las vidas de las criadas afroamericanas en la década de 1960 en el sur de Estados Unidos.",
+            "actors": [
+                "Emma Stone",
+                "Viola Davis",
+                "Octavia Spencer"
+            ]
+        }
+    },
+    {
+        "title": "American Beauty",
+        "genre": "Drama",
+        "ageRating": "R",
+        "duration": 90,
+        "information": {
+            "director": "Sam Mendes",
+            "releaseYear": 1999,
+            "description": "Un hombre en crisis busca significado en su vida suburbana.",
+            "actors": [
+                "Kevin Spacey",
+                "Annette Bening",
+                "Thora Birch"
+            ]
+        }
+    },
+    {
+        "title": "The Social Network",
+        "genre": "Drama",
+        "ageRating": "R",
+        "duration": 120,
+        "information": {
+            "director": "David Fincher",
+            "releaseYear": 2010,
+            "description": "La historia del surgimiento de Facebook y las luchas legales que lo rodearon.",
+            "actors": [
+                "Jesse Eisenberg",
+                "Andrew Garfield",
+                "Justin Timberlake"
+            ]
+        }
+    },
+    {
+        "title": "Blade Runner",
+        "genre": "Drama",
+        "ageRating": "R",
+        "duration": 150,
+        "information": {
+            "director": "Ridley Scott",
+            "releaseYear": 1982,
+            "description": "En un futuro distópico, un ex policía es contratado para cazar replicantes rebeldes.",
+            "actors": [
+                "Harrison Ford",
+                "Rutger Hauer",
+                "Sean Young"
+            ]
+        }
+    },
+    {
+        "title": "The Matrix",
+        "genre": "Drama",
+        "ageRating": "R",
+        "duration": 180,
+        "information": {
+            "director": "The Wachowskis",
+            "releaseYear": 1999,
+            "description": "Un hombre descubre que vive en un mundo simulado y se une a una resistencia para luchar contra las máquinas.",
+            "actors": [
+                "Keanu Reeves",
+                "Laurence Fishburne",
+                "Carrie-Anne Moss"
+            ]
+        }
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "genre": "Drama",
+        "ageRating": "NC-17",
+        "duration": 90,
+        "information": {
+            "director": "George Lucas",
+            "releaseYear": 1977,
+            "description": "En una galaxia muy, muy lejana, un joven granjero se convierte en un héroe galáctico.",
+            "actors": [
+                "Mark Hamill",
+                "Harrison Ford",
+                "Carrie Fisher"
+            ]
+        }
+    },
+    {
+        "title": "Inception",
+        "genre": "Drama",
+        "ageRating": "NC-17",
+        "duration": 120,
+        "information": {
+            "director": "Christopher Nolan",
+            "releaseYear": 2010,
+            "description": "Un ladrón de sueños se embarca en un último trabajo para redimirse.",
+            "actors": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt",
+                "Ellen Page"
+            ]
+        }
+    },
+    {
+        "title": "E.T. the Extra-Terrestrial",
+        "genre": "Drama",
+        "ageRating": "NC-17",
+        "duration": 150,
+        "information": {
+            "director": "Steven Spielberg",
+            "releaseYear": 1982,
+            "description": "Un niño encuentra y ayuda a un amigable extraterrestre a regresar a su hogar.",
+            "actors": [
+                "Henry Thomas",
+                "Drew Barrymore",
+                "Dee Wallace"
+            ]
+        }
+    },
+    {
+        "title": "Alien",
+        "genre": "Drama",
+        "ageRating": "NC-17",
+        "duration": 180,
+        "information": {
+            "director": "Ridley Scott",
+            "releaseYear": 1979,
+            "description": "La tripulación de una nave espacial se enfrenta a un aterrador extraterrestre en un planeta desconocido.",
+            "actors": [
+                "Sigourney Weaver",
+                "Tom Skerritt",
+                "John Hurt"
+            ]
+        }
+    },
+    {
+        "title": "Interstellar",
+        "genre": "Ciencia Ficción",
+        "ageRating": "G",
+        "duration": 90,
+        "information": {
+            "director": "Christopher Nolan",
+            "releaseYear": 2014,
+            "description": "Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad.",
+            "actors": [
+                "Matthew McConaughey",
+                "Anne Hathaway",
+                "Jessica Chastain"
+            ]
+        }
+    },
+    {
+        "title": "The Terminator",
+        "genre": "Ciencia Ficción",
+        "ageRating": "G",
+        "duration": 120,
+        "information": {
+            "director": "James Cameron",
+            "releaseYear": 1984,
+            "description": "Un cyborg asesino viaja desde el futuro para matar a la madre de un futuro líder de la resistencia humana.",
+            "actors": [
+                "Arnold Schwarzenegger",
+                "Linda Hamilton",
+                "Michael Biehn"
+            ]
+        }
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "genre": "Ciencia Ficción",
+        "ageRating": "G",
+        "duration": 150,
+        "information": {
+            "director": "Stanley Kubrick",
+            "releaseYear": 1968,
+            "description": "Un viaje épico a través del espacio y el tiempo, liderado por una inteligencia artificial llamada HAL 9000.",
+            "actors": [
+                "Keir Dullea",
+                "Gary Lockwood",
+                "Douglas Rain"
+            ]
+        }
+    },
+    {
+        "title": "The Martian",
+        "genre": "Ciencia Ficción",
+        "ageRating": "G",
+        "duration": 180,
+        "information": {
+            "director": "Ridley Scott",
+            "releaseYear": 2015,
+            "description": "Un astronauta queda atrapado en Marte y lucha por sobrevivir hasta ser rescatado.",
+            "actors": [
+                "Matt Damon",
+                "Jessica Chastain",
+                "Kristen Wiig"
+            ]
+        }
+    },
+    {
+        "title": "The Fifth Element",
+        "genre": "Ciencia Ficción",
+        "ageRating": "PG-13",
+        "duration": 90,
+        "information": {
+            "director": "Luc Besson",
+            "releaseYear": 1997,
+            "description": "En el siglo 23, un taxista se convierte en la clave para salvar a la Tierra de una amenaza cósmica.",
+            "actors": [
+                "Bruce Willis",
+                "Milla Jovovich",
+                "Gary Oldman"
+            ]
+        }
+    },
+    {
+        "title": "Close Encounters of the Third Kind",
+        "genre": "Ciencia Ficción",
+        "ageRating": "PG-13",
+        "duration": 120,
+        "information": {
+            "director": "Steven Spielberg",
+            "releaseYear": 1977,
+            "description": "Un electricista tiene un encuentro cercano con una nave espacial y se obsesiona con descubrir la verdad.",
+            "actors": [
+                "Richard Dreyfuss",
+                "François Truffaut",
+                "Teri Garr"
+            ]
+        }
+    },
+    {
+        "title": "Jurassic Park",
+        "genre": "Ciencia Ficción",
+        "ageRating": "PG-13",
+        "duration": 150,
+        "information": {
+            "director": "Steven Spielberg",
+            "releaseYear": 1993,
+            "description": "Dinosaurios vuelven a la vida en un parque temático y aterrorizan a los visitantes.",
+            "actors": [
+                "Sam Neill",
+                "Laura Dern",
+                "Jeff Goldblum"
+            ]
+        }
+    },
+    {
+        "title": "Donnie Darko",
+        "genre": "Ciencia Ficción",
+        "ageRating": "PG-13",
+        "duration": 180,
+        "information": {
+            "director": "Richard Kelly",
+            "releaseYear": 2001,
+            "description": "Un adolescente es visitado por un conejo profético y se ve atrapado en una realidad alternativa.",
+            "actors": [
+                "Jake Gyllenhaal",
+                "Jena Malone",
+                "Frank the Bunny"
+            ]
+        }
+    },
+    {
+        "title": "Star Trek: The Motion Picture",
+        "genre": "Ciencia Ficción",
+        "ageRating": "R",
+        "duration": 90,
+        "information": {
+            "director": "Robert Wise",
+            "releaseYear": 1979,
+            "description": "La tripulación del USS Enterprise se enfrenta a una misteriosa entidad alienígena.",
+            "actors": [
+                "William Shatner",
+                "Leonard Nimoy",
+                "DeForest Kelley"
+            ]
+        }
+    },
+    {
+        "title": "War of the Worlds",
+        "genre": "Ciencia Ficción",
+        "ageRating": "R",
+        "duration": 120,
+        "information": {
+            "director": "Steven Spielberg",
+            "releaseYear": 2005,
+            "description": "La Tierra es invadida por máquinas de guerra alienígenas.",
+            "actors": [
+                "Tom Cruise",
+                "Dakota Fanning",
+                "Tim Robbins"
+            ]
+        }
+    },
+    {
+        "title": "The Day the Earth Stood Still",
+        "genre": "Ciencia Ficción",
+        "ageRating": "R",
+        "duration": 150,
+        "information": {
+            "director": "Robert Wise",
+            "releaseYear": 1951,
+            "description": "Un alienígena llega a la Tierra con un mensaje para la humanidad.",
+            "actors": [
+                "Michael Rennie",
+                "Patricia Neal",
+                "Hugh Marlowe"
+            ]
+        }
+    },
+    {
+        "title": "Moon",
+        "genre": "Ciencia Ficción",
+        "ageRating": "R",
+        "duration": 180,
+        "information": {
+            "director": "Duncan Jones",
+            "releaseYear": 2009,
+            "description": "Un astronauta en una estación lunar solitaria comienza a cuestionar su cordura y su realidad.",
+            "actors": [
+                "Sam Rockwell",
+                "Kevin Spacey",
+                "Dominique McElligott"
+            ]
+        }
+    },
+    {
+        "title": "The Hunger Games",
+        "genre": "Ciencia Ficción",
+        "ageRating": "NC-17",
+        "duration": 90,
+        "information": {
+            "director": "Gary Ross",
+            "releaseYear": 2012,
+            "description": "En un futuro distópico, adolescentes son forzados a luchar hasta la muerte en un juego televisado.",
+            "actors": [
+                "Jennifer Lawrence",
+                "Josh Hutcherson",
+                "Liam Hemsworth"
+            ]
+        }
+    },
+    {
+        "title": "The Andromeda Strain",
+        "genre": "Ciencia Ficción",
+        "ageRating": "NC-17",
+        "duration": 120,
+        "information": {
+            "director": "Robert Wise",
+            "releaseYear": 1971,
+            "description": "Un grupo de científicos investiga un mortal organismo alienígena que amenaza la vida en la Tierra.",
+            "actors": [
+                "Arthur Hill",
+                "David Wayne",
+                "James Olson"
+            ]
+        }
+    },
+    {
+        "title": "Children of Men",
+        "genre": "Ciencia Ficción",
+        "ageRating": "NC-17",
+        "duration": 150,
+        "information": {
+            "director": "Alfonso Cuarón",
+            "releaseYear": 2006,
+            "description": "En un mundo sin niños, un hombre se convierte en el protector de la última esperanza de la humanidad.",
+            "actors": [
+                "Clive Owen",
+                "Julianne Moore",
+                "Michael Caine"
+            ]
+        }
+    },
+    {
+        "title": "The War of the Worlds",
+        "genre": "Ciencia Ficción",
+        "ageRating": "NC-17",
+        "duration": 180,
+        "information": {
+            "director": "Byron Haskin",
+            "releaseYear": 1953,
+            "description": "La Tierra se enfrenta a la invasión de máquinas de guerra marcianas en esta adaptación de H.G. Wells.",
+            "actors": [
+                "Gene Barry",
+                "Ann Robinson",
+                "Les Tremayne"
+            ]
+        }
+    }
+]
